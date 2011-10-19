@@ -1,0 +1,4 @@
+1- complete the spceial page 
+2- make it available for multi site
+3- make a translation
+4- do more tests
